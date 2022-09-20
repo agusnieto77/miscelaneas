@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>big data on Misceláneas</title>
+    <link>https://agusnieto77.github.io/miscelaneas/tags/big-data/</link>
+    <description>Recent content in big data on Misceláneas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://agusnieto77.github.io/miscelaneas/tags/big-data/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Big Data</title>
+      <link>https://agusnieto77.github.io/miscelaneas/post/2022-09-20-big-data/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://agusnieto77.github.io/miscelaneas/post/2022-09-20-big-data/</guid>
+      <description>Según el gobierno argentino el término “big data” se refiere a una gran cantidad de información que sólo se puede procesar mediante el uso de herramientas digitales y que sirve para responder preguntas a través del análisis de enormes volúmenes de datos. Se trata de un paradigma que se caracteriza por lo que se conoce como las cinco V: Volumen, Velocidad, Variedad, Veracidad, Valor.
+Fuente: Grupo de trabajo de servicios de Internet</description>
+    </item>
+    
+  </channel>
+</rss>

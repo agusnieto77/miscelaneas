@@ -6,7 +6,17 @@
     <description>Recent content on Misceláneas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 10 Jan 2021 00:00:00 +0800</lastBuildDate><atom:link href="https://agusnieto77.github.io/miscelaneas/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://agusnieto77.github.io/miscelaneas/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Big Data</title>
+      <link>https://agusnieto77.github.io/miscelaneas/post/2022-09-20-big-data/</link>
+      <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://agusnieto77.github.io/miscelaneas/post/2022-09-20-big-data/</guid>
+      <description>Según el gobierno argentino el término “big data” se refiere a una gran cantidad de información que sólo se puede procesar mediante el uso de herramientas digitales y que sirve para responder preguntas a través del análisis de enormes volúmenes de datos. Se trata de un paradigma que se caracteriza por lo que se conoce como las cinco V: Volumen, Velocidad, Variedad, Veracidad, Valor.
+Fuente: Grupo de trabajo de servicios de Internet</description>
+    </item>
+    
     <item>
       <title>In-post APlayer Test</title>
       <link>https://agusnieto77.github.io/miscelaneas/post/aplayer-test/</link>
@@ -26,17 +36,6 @@
 
 &lt;p&gt;This post is for in-post APlayer test, above is previous post-player.&lt;/p&gt;
 &lt;p&gt;Music files are all downloaded from &lt;a href=&#34;https://freemusicarchive.org&#34; target=&#34;_blank&#34;&gt;Free Music Archive&lt;/a&gt;.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>https://agusnieto77.github.io/miscelaneas/post/2020-12-01-r-rmarkdown/</link>
-      <pubDate>Tue, 01 Dec 2020 21:13:14 -0500</pubDate>
-      
-      <guid>https://agusnieto77.github.io/miscelaneas/post/2020-12-01-r-rmarkdown/</guid>
-      <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.:19.0 3rd Qu.: 56.00 ## Max. :25.0 Max. :120.00fit &amp;lt;- lm(dist ~ speed, data = cars)fit## ## Call:## lm(formula = dist ~ speed, data = cars)## ## Coefficients:## (Intercept) speed ## -17.</description>
     </item>
     
     <item>
