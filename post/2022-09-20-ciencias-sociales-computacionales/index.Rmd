@@ -1,0 +1,13 @@
+---
+title: Ciencias Sociales Computacionales
+author: agusnieto77
+date: '2022-09-20'
+slug: ciencias-sociales-computacionales
+categories:
+  - Glosario
+tags:
+  - csc
+---
+
+Según la Sociedad de Ciencias Sociales Computacionales de las Américas (CSSSA) la CSC es una disciplina científica en la que se emplean métodos computacionales, análisis de datos y modelos de simulación de dinámicas sociales para ofrecer nuevos conocimientos sobre los fenómenos sociales más allá de lo que está disponible con los métodos tradicionales de las ciencias sociales.
+Fuente: [CSSSA](https://computationalsocialscience.org/conferences/css2021/)

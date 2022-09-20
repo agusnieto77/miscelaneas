@@ -1,0 +1,16 @@
+---
+title: Humanidades Digitales
+author: agusnieto77
+date: '2022-09-20'
+slug: humanidades-digitales
+categories:
+  - Glosario
+tags:
+  - hd
+---
+
+Según Susan Greenberg HD es un término nuevo que describe lo que probablemente sea una actividad (o colección de actividades) antigua pero que nos da una imagen o metáfora fresca de ese trabajo, para que pueda ser visto con nuevos ojos. Permite que se hagan nuevas conexiones a través de lo que antes eran campos de interés muy separados, que es la esencia de la imaginación y la creación de nuevos conocimientos.
+
+Mientras que para Jennifer Giuliano, en su forma más simple, DH es la utilización de computadoras y herramientas computacionales para la exploración, análisis y producción de conocimiento humanístico.
+
+Para ver más de 800 definiciones de HD ir a [what is digital humanities?](https://whatisdigitalhumanities.com/)
