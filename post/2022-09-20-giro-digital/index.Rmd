@@ -1,0 +1,16 @@
+---
+title: Giro digital
+author: agusnieto77
+date: '2022-09-20'
+slug: giro-digital
+categories:
+  - Glosario
+tags:
+  - giro digital
+---
+
+# Giro Digital
+
+Según la DFG (**Sociedad Alemana de Investigación**) el término “giro digital” comprende todos los cambios e impactos relevantes en términos epistémicos, éticos, legales, técnicos, de infraestructura, organizacionales, financieros y también sociales, que surgen del desarrollo y uso de las tecnologías digitales en las ciencias y las humanidades. Por otra parte, el giro digital no es un fenómeno que se restringe a la investigación científica; Las tecnologías y los procesos digitales son, por el contrario, relevantes en todos los ámbitos de la sociedad y la economía.
+
+Fuente: [DFG](https://www.dfg.de/en/research_funding/principles_dfg_funding/digital_turn/index.html)
