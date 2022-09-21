@@ -5,7 +5,7 @@
     <link>https://agusnieto77.github.io/miscelaneas/</link>
     <description>Recent content on Misceláneas</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>es</language>
     <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://agusnieto77.github.io/miscelaneas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Big Data</title>
@@ -46,15 +46,12 @@ Mientras que para Jennifer Giuliano, en su forma más simple, DH es la utilizaci
     </item>
     
     <item>
-      <title>About Hugo</title>
+      <title>Acerca de Misceláneas</title>
       <link>https://agusnieto77.github.io/miscelaneas/about/</link>
-      <pubDate>Sat, 11 Apr 2020 19:15:32 +0800</pubDate>
+      <pubDate>Mon, 19 Sep 2022 19:15:32 +0800</pubDate>
       
       <guid>https://agusnieto77.github.io/miscelaneas/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
-https://github.com/yuin/goldmark https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.</description>
+      <description>Misceláneas es un blog sobre programación para científicxs sociales y humanistas. Los temas son diversos: Ciencias Sociales Computacionales, Humanidades Digitales, Big Data, Giro Digital, Programación con R, Python, PHP, SQL y más. Siempre (o casi) orientado a las ciencias sociales y humanas. La idea es que en la página se reciclen (al viejo estilo de bloc de notas) aportes conceptuales, metodológicos y técnicos de y para quienes transitamos la intersección entre ciencias computacionales, herramientas digitales y humanidades y ciencias sociales.</description>
     </item>
     
   </channel>
