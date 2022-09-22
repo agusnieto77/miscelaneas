@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Misceláneas</title>
-    <link>https://agusnieto77.github.io/miscelaneas/post/</link>
+    <link>http://datificacion.com/post/</link>
     <description>Recent content in Posts on Misceláneas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://agusnieto77.github.io/miscelaneas/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://datificacion.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Big Data</title>
-      <link>https://agusnieto77.github.io/miscelaneas/post/2022-09-20-big-data/</link>
+      <link>http://datificacion.com/post/2022-09-20-big-data/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://agusnieto77.github.io/miscelaneas/post/2022-09-20-big-data/</guid>
+      <guid>http://datificacion.com/post/2022-09-20-big-data/</guid>
       <description>Según el gobierno argentino el término “big data” se refiere a una gran cantidad de información que sólo se puede procesar mediante el uso de herramientas digitales y que sirve para responder preguntas a través del análisis de enormes volúmenes de datos. Se trata de un paradigma que se caracteriza por lo que se conoce como las cinco V: Volumen, Velocidad, Variedad, Veracidad, Valor.
 Fuente: Grupo de trabajo de servicios de Internet</description>
     </item>
     
     <item>
       <title>Ciencias Sociales Computacionales</title>
-      <link>https://agusnieto77.github.io/miscelaneas/post/2022-09-20-ciencias-sociales-computacionales/</link>
+      <link>http://datificacion.com/post/2022-09-20-ciencias-sociales-computacionales/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://agusnieto77.github.io/miscelaneas/post/2022-09-20-ciencias-sociales-computacionales/</guid>
+      <guid>http://datificacion.com/post/2022-09-20-ciencias-sociales-computacionales/</guid>
       <description>Según la Sociedad de Ciencias Sociales Computacionales de las Américas (CSSSA) la CSC es una disciplina científica en la que se emplean métodos computacionales, análisis de datos y modelos de simulación de dinámicas sociales para ofrecer nuevos conocimientos sobre los fenómenos sociales más allá de lo que está disponible con los métodos tradicionales de las ciencias sociales.Fuente: CSSSA</description>
     </item>
     
     <item>
       <title>Giro Digital</title>
-      <link>https://agusnieto77.github.io/miscelaneas/post/2022-09-20-giro-digital/</link>
+      <link>http://datificacion.com/post/2022-09-20-giro-digital/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://agusnieto77.github.io/miscelaneas/post/2022-09-20-giro-digital/</guid>
+      <guid>http://datificacion.com/post/2022-09-20-giro-digital/</guid>
       <description>Según la DFG (Sociedad Alemana de Investigación) el término “giro digital” comprende todos los cambios e impactos relevantes en términos epistémicos, éticos, legales, técnicos, de infraestructura, organizacionales, financieros y también sociales, que surgen del desarrollo y uso de las tecnologías digitales en las ciencias y las humanidades. Por otra parte, el giro digital no es un fenómeno que se restringe a la investigación científica; Las tecnologías y los procesos digitales son, por el contrario, relevantes en todos los ámbitos de la sociedad y la economía.Fuente: DFG</description>
     </item>
     
     <item>
       <title>Humanidades Digitales</title>
-      <link>https://agusnieto77.github.io/miscelaneas/post/2022-09-20-humanidades-digitales/</link>
+      <link>http://datificacion.com/post/2022-09-20-humanidades-digitales/</link>
       <pubDate>Tue, 20 Sep 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://agusnieto77.github.io/miscelaneas/post/2022-09-20-humanidades-digitales/</guid>
+      <guid>http://datificacion.com/post/2022-09-20-humanidades-digitales/</guid>
       <description>Según Susan Greenberg HD es un término nuevo que describe lo que probablemente sea una actividad (o colección de actividades) antigua pero que nos da una imagen o metáfora fresca de ese trabajo, para que pueda ser visto con nuevos ojos. Permite que se hagan nuevas conexiones a través de lo que antes eran campos de interés muy separados, que es la esencia de la imaginación y la creación de nuevos conocimientos.
 Mientras que para Jennifer Giuliano, en su forma más simple, DH es la utilización de computadoras y herramientas computacionales para la exploración, análisis y producción de conocimiento humanístico.</description>
     </item>

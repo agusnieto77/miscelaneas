@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Archives on Misceláneas</title>
-    <link>https://agusnieto77.github.io/miscelaneas/archives/</link>
+    <link>http://datificacion.com/archives/</link>
     <description>Recent content in Archives on Misceláneas</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://agusnieto77.github.io/miscelaneas/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="http://datificacion.com/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
