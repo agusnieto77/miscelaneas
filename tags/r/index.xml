@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>r on Misceláneas</title>
+    <link>https://datificacion.com/tags/r/</link>
+    <description>Recent content in r on Misceláneas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://datificacion.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Ciencias Sociales Computacionales con R para &#39;pequeños datos&#39;</title>
+      <link>https://datificacion.com/post/2022-10-02-ciencias-sociales-computacionales-con-r-para-peque-os-datos/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://datificacion.com/post/2022-10-02-ciencias-sociales-computacionales-con-r-para-peque-os-datos/</guid>
+      <description>Un experimento en torno al conflicto de lxs trabajadorxs del neumático.En desarrollo…</description>
+    </item>
+    
+  </channel>
+</rss>

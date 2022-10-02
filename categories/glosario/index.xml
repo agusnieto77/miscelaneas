@@ -6,7 +6,16 @@
     <description>Recent content in Glosario on Misceláneas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 20 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://datificacion.com/categories/glosario/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 02 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://datificacion.com/categories/glosario/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Web Scraping</title>
+      <link>https://datificacion.com/post/2022-10-02-web-scraping/</link>
+      <pubDate>Sun, 02 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://datificacion.com/post/2022-10-02-web-scraping/</guid>
+      <description>Web scraping se refiere al procedimiento de extracción automática de datos de sitios web mediante software. Es una tecnología que permite extraer texto semiestructurado en estructuras HTML. Es extremadamente útil en situaciones en las que los datos no se proporcionan en un formato tabular (marco de datos, tabla). En estudios recientes se ha señalado que el web scraping genera set de datos mucho más completos, precisos y consistentes que los logrados con la tradicional entrada manual de datos. En este sentido, el web scraping es una herramienta cada vez más útil y necesaria en los escritorios de las humanidades y ciencias sociales.</description>
+    </item>
+    
     <item>
       <title>Big Data</title>
       <link>https://datificacion.com/post/2022-09-20-big-data/</link>
