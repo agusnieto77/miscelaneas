@@ -1,0 +1,17 @@
+---
+title: Ciencias Sociales Computacionales con R para 'pequeños datos'
+author: agusnieto77
+date: '2022-10-02'
+slug: ciencias-sociales-computacionales-con-r-para-peque-os-datos
+categories:
+  - Notas
+tags:
+  - csc
+  - r
+  - sd
+---
+
+## Un experimento en torno al conflicto de lxs trabajadorxs del neumático.
+
+En desarrollo...
+
